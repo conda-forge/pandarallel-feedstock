@@ -1,5 +1,5 @@
 {% set name = "pandarallel" %}
-{% set version = "1.5.5" %}
+{% set version = "1.6.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/pandarallel-{{ version }}.tar.gz
-  sha256: 4d67d01a8d1aa91dc1e67cb21858f0c75363386aecdd5335a3f55a36d1d4ba8d
+  sha256: bfbe1177b4c2258948fa90cd62f0d6a75775490cb9b4825ae4f8b5651fad4195
 
 build:
   number: 0
