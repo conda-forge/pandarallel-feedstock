@@ -20,9 +20,10 @@ requirements:
     - pip
     - python >=3.6
   run:
-    - dill
+    - dill >=0.3.1
     - python >=3.6
-    - pandas
+    - pandas >=1
+    - psutil
 
 test:
   imports:
