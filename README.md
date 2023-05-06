@@ -1,11 +1,11 @@
-About pandarallel
-=================
+About pandarallel-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pandarallel-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/nalepae/pandarallel
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pandarallel-feedstock/blob/main/LICENSE.txt)
 
 Summary: An easy to use library to speed up computation (by parallelizing on multi CPUs) with pandas.
 
